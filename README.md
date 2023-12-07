@@ -16,7 +16,7 @@ Este proyecto es una prueba técnica para la empresa IKBO y se enfoca en la crea
 
 ## Instalación
 1. Clona este repositorio: `git clone https://github.com/cristiancamiloalzateramirezweb/prueba-ikbo.git`
-2. Ejecuta la aplicación con la opción: `Open With Live Server`.
+2. Ejecuta la aplicación con la opción: `Open With Live Server`
    
 ## Uso
 1. Ingresa a: https://cristiancamiloalzateramirezweb.github.io/prueba-ikbo
