@@ -293,6 +293,11 @@ header .nav-main {
     .showcase-container .helper-container {
         width: 100%;
         margin-top: 20px;
+        padding: 25px 25px 0px 25px;
+    }
+
+    .showcase-container .helper-container .box-content .box {
+        padding: 25px 0;
     }
 
     .section-articles .articles {
@@ -333,7 +338,7 @@ header .nav-main {
     }
 
     .nav-mobile .nav-container ul {
-        padding: 90px 0px 0px 30px;
+        padding: 120px 0px 0px 30px;
     }
 
     .nav-mobile .nav-container ul li {
@@ -357,7 +362,7 @@ header .nav-main {
         outline: none;
         border: none;
         position: absolute;
-        right: 30px;
+        right: 15px;
         top: 35px;
     }
 }
