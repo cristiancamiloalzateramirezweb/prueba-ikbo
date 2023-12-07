@@ -19,4 +19,4 @@ Este proyecto es un prueba tecnica de la empresa ikbo es sitio web de noicias.
 
 ## Uso
 1. Ejecuta la aplicación con la opción: `Open With Live Server`.
-2. Ingresa a: https://github.com/cristiancamiloalzateramirezweb/prueba-ikbo/
+2. Ingresa a: https://cristiancamiloalzateramirezweb/github.io/prueba-ikbo/
