@@ -1,7 +1,7 @@
 # Prueba Tecnica IKBO
 
 ## Descripción
-Este proyecto es un prueba tecnica de la empresa ikbo es sitio web de noicias.
+Este proyecto es una prueba técnica para la empresa IKBO y se enfoca en la creación de un sitio web de noticias. El objetivo principal es garantizar una visualización óptima, tanto en dispositivos de escritorio como en móviles, juntos con las interacciones y estados de la pagina, alineándose con los diseños predefinidos.
 
 ## Herramientas Utilizadas
 
@@ -16,7 +16,7 @@ Este proyecto es un prueba tecnica de la empresa ikbo es sitio web de noicias.
 
 ## Instalación
 1. Clona este repositorio: `git clone https://github.com/cristiancamiloalzateramirezweb/prueba-ikbo.git`
-
+2. Ejecuta la aplicación con la opción: `Open With Live Server`.
+   
 ## Uso
-1. Ejecuta la aplicación con la opción: `Open With Live Server`.
-2. Ingresa a: https://cristiancamiloalzateramirezweb/github.io/prueba-ikbo/
+1. Ingresa a: https://cristiancamiloalzateramirezweb.github.io/prueba-ikbo
