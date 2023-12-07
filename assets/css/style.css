@@ -228,7 +228,7 @@ header .nav-main {
 @media screen and (max-width: 599px) {
 
     .root {
-        max-width: 92.5%;
+        max-width: 95%;
     }
 
     .background-container .content-container .text-content p {
